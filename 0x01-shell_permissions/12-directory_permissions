@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod 751 < $(mkdir my_dir)
+sudo mkdir -m751 my_dir
